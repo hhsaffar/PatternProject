@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\Visual Studio 2012\Projects\PatternProject\MakeCalendar\bin\Debug\PatternProject.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\PatternProject\MakeCalendar\bin\Debug\PatternProject.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\PatternProject\MakeCalendar\obj\x86\Debug\PatternProject.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\PatternProject\MakeCalendar\obj\x86\Debug\PatternProject.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\PatternProject\MakeCalendar\obj\x86\Debug\PatternProject.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\PatternProject\PatternProject\obj\x86\Debug\PatternProject.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\PatternProject\PatternProject\obj\x86\Debug\PatternProject.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\PatternProject\PatternProject\bin\Debug\PatternProject.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\PatternProject\PatternProject\bin\Debug\PatternProject.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\PatternProject\PatternProject\obj\x86\Debug\PatternProject.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\MakeCalendar\MakeCalendar\bin\Debug\MakeCalendar.exe
+C:\MakeCalendar\MakeCalendar\obj\x86\Debug\MakeCalendar.exe
+C:\MakeCalendar\MakeCalendar\obj\x86\Debug\MakeCalendar.pdb
+C:\MakeCalendar\MakeCalendar\bin\Debug\MakeCalendar.pdb
+C:\MakeCalendar\MakeCalendar\obj\x86\Debug\MakeCalendar.csprojResolveAssemblyReference.cache
